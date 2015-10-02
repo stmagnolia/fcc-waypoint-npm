@@ -1,0 +1,27 @@
+{
+  "name": "fcc-waypoint-npm",
+  "version": "1.0.0",
+  "description": "Learning the way to create package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stmagnolia/fcc-waypoint-npm.git"
+  },
+  "keywords": [
+    "freecodecamp",
+    "learning",
+    "how-to-npm"
+  ],
+  "author": "stmagnolia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stmagnolia/fcc-waypoint-npm/issues"
+  },
+  "homepage": "https://github.com/stmagnolia/fcc-waypoint-npm#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
